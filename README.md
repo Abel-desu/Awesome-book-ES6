@@ -44,9 +44,9 @@ npx eslint .
 
 👤 **Author1**
 
-- GitHub: [@t-bello7](https://github.com/abel-desu)
-- Twitter: [@__tbello](https://twitter.com/abeldesagn)
-- LinkedIn: [tbello7](https://linkedin.com/in/abeldesagn)
+- GitHub: [@abel-desu](https://github.com/abel-desu)
+- Twitter: [@abel-desu](https://twitter.com/abeldesagn)
+- LinkedIn: [@abel-desu](https://linkedin.com/in/abeldesagn)
 
 
 ## 🤝 Contributing
