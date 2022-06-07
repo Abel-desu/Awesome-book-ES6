@@ -25,7 +25,7 @@
 
 ### Setup
 - Clone this project 
-`clone link`
+(https://github.com/Abel-desu/Awesome-book-ES6)
 
 ### Install
 - After succesfully cloning the project, change working direction to the root of the project and run the command below in your terminal
