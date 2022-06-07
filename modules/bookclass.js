@@ -1,7 +1,8 @@
 /* eslint max-classes-per-file: ["error", 2] */
 
+import { renderElements } from './element.js';
+
 const bookContainer = document.querySelector('.books');
-import {renderElements} from './element.js'
 export default class BookList {
   static getBooks = () => {
     let bookList = [];

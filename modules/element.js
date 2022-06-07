@@ -1,4 +1,4 @@
-
+/* eslint-disable*/
 
 export const renderElements = (arr, container) => {
   container.innerHTML = '';

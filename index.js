@@ -1,7 +1,7 @@
 /* eslint max-classes-per-file: ["error", 2] */
 import BookList from './modules/bookclass.js';
-import {DateTime} from './modules/luxon.js';
-import {renderElements} from './modules/element.js';
+import { DateTime } from './modules/luxon.js';
+import { renderElements } from './modules/element.js';
 
 const addBookForm = document.querySelector('.add-book-form');
 const bookContainer = document.querySelector('.books');
