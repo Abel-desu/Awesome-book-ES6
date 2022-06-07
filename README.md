@@ -14,8 +14,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link]
-
+[Live Demo Link](https://abel-desu.github.io/Awesome-book-ES6/)
 
 ## Getting Started
 
@@ -25,8 +24,7 @@
 - Node Js
 
 ### Setup
-- Clone this project 
-`clone link`
+- [Clone this project](https://github.com/Abel-desu/Awesome-book-ES6)
 
 ### Install
 - After succesfully cloning the project, change working direction to the root of the project and run the command below in your terminal
@@ -45,9 +43,11 @@ npx eslint .
 
 👤 **Author1**
 
-- GitHub: [@t-bello7](https://github.com/abel-desu)
-- Twitter: [@__tbello](https://twitter.com/abeldesagn)
-- LinkedIn: [tbello7](https://linkedin.com/in/abeldesagn)
+- GitHub: [@abel-desu](https://github.com/abel-desu)
+- Twitter: [@abel-desu](https://twitter.com/abeldesagn)
+
+- LinkedIn: [abel-desu](https://linkedin.com/in/abeldesagn)
+
 
 
 ## 🤝 Contributing
